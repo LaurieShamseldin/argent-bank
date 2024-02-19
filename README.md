@@ -1,4 +1,4 @@
-# Projet Sportsee
+# Projet Argent-bank
 
 ## Installation (en français)
 
